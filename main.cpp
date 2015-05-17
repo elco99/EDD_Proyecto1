@@ -16,12 +16,12 @@
 using namespace std; 
 
 int main(int argc, char *argv[]){
-  ofstream file1("FSALInsert.txt");
-  ofstream file2("FSALget.txt");
-  ofstream file3("FSALIndex.txt");
-  //ofstream file4("FSALFirst.txt");
-  //ofstream file5("FSALLast.txt");
-  //ofstream file6("FSALRemove.txt");
+  ofstream file1("FSAInsert.txt");
+  ofstream file2("FSAget.txt");
+  ofstream file3("FSAIndex.txt");
+  //ofstream file4("FSAFirst.txt");
+  //ofstream file5("FSALast.txt");
+  //ofstream file6("FSARemove.txt");
   //ofstream file7("DLLInsert.txt");
   //ofstream file8("DLLget.txt");
   //ofstream file9("DLLindex.txt");
